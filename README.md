@@ -1,12 +1,11 @@
 # Overview
-An educational project delving into the intricacies of microservices architecture, featuring a few services powered by MySQL databases deployed on Docker, Spring framework, and integrated with Eureka for service discovery, along with Zipkin for tracing.
+An educational project delving into the intricacies of microservices architecture, featuring a few services powered by PostgreSQL databases, Spring framework, and integrated with Eureka for service discovery, along with Zipkin for tracing.
 
 
 ## Technologies Used
 
 - Spring framework
-- MySQL databases
-- Docker
+- PostgreSQL databases
 - Eureka for service discovery
 - Zipkin for tracing
 
